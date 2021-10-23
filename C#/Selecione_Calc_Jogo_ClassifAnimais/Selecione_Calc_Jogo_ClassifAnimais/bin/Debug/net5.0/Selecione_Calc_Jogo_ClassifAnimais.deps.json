@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Selecione_Calc_Jogo_ClassifAnimais/1.0.0": {
+        "runtime": {
+          "Selecione_Calc_Jogo_ClassifAnimais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selecione_Calc_Jogo_ClassifAnimais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

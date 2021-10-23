@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\bin\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.exe
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\bin\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.deps.json
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\bin\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\bin\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\bin\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\bin\Debug\net5.0\ref\Selecione_Calc_Jogo_ClassifAnimais.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\bin\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.pdb
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\obj\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\obj\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\obj\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\obj\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\obj\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\obj\Debug\net5.0\ref\Selecione_Calc_Jogo_ClassifAnimais.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\obj\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.pdb
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\obj\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\Selecione_Calc_Jogo_ClassifAnimais\Selecione_Calc_Jogo_ClassifAnimais\obj\Debug\net5.0\Selecione_Calc_Jogo_ClassifAnimais.csproj.AssemblyReference.cache
