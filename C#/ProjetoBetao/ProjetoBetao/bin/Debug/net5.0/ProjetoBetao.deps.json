@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjetoBetao/1.0.0": {
+        "runtime": {
+          "ProjetoBetao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoBetao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

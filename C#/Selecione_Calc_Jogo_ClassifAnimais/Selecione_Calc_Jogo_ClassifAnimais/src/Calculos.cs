@@ -1,49 +1,58 @@
 ﻿using System;
-using Selecione_Calc_Jogo_ClassifAnimais.Calculos;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Selecione_Calc_Jogo_ClassifAnimais.Service;
+using Selecione_Calc_Jogo_ClassifAnimais.src;
 
-namespace Selecione_Calc_Jogo_ClassifAnimais
+namespace Selecione_Calc_Jogo_ClassifAnimais.Controller
 {
-    class Program
+    class Calculos
     {
-        static void Main(string[] args)
+        public static void Selecionar()
         {
-            int sair = 1;
+            int voltar = 1;
 
-            while (sair == 1)
+            while (voltar == 1)
             {
-                Console.Clear();
-                Console.WriteLine("Bem Vindo!!!" +
-                "\n\nEscolha uma das opções abaixo:\n" +
-                "\n1. Calcular;" +
-                "\n2. Jogar;" +
-                "\n3. Classificar Animais");
-
                 int selecao = 0;
+                Console.Clear();
+                Console.WriteLine("Você selecionou calcular!" +
+                    "\n\nVamos lá!! Selecione uma das opções abaixo:\n" +
+                    "\n1. Tabuada de um numero especifico;" +
+                    "\n2. Tabuada de todos os numeros do 1 ao 10;" +
+                    "\n3. Calcular o fatorial de um numero;" +
+                    "\n4. Voltar.");
 
                 try
                 {
                     selecao = int.Parse(Console.ReadLine());
                 }
-
                 catch
                 {
-                    Console.WriteLine("\nVocê não digitou um valor numérico. Digite um valor válido:\n");
+                    Console.WriteLine("Você digitou um valor invalido, entre com um valor numérico.");
                 }
 
                 switch (selecao)
                 {
                     case 1:
-                        Console.Clear();
-                        Calcular.SelecionarCalc();
+                        Tabuada.Iniciar();
                         break;
-                    case 2:
-                        Console.Clear();
-                        break;
-                    case 3:
-                        Console.Clear();
-                        break;
-                    default:
                         
+                    case 2:
+                        TabuadaCompleta.Iniciar();
+                        break;
+
+                    case 3:
+                        break;
+
+                    case 4:
+                        voltar = 0;
+                        break;
+
+                    default:
+
                         while (true)
                         {
                             int opcao = 0;
@@ -61,22 +70,20 @@ namespace Selecione_Calc_Jogo_ClassifAnimais
                             {
                                 if (opcao == 2)
                                 {
-                                    sair = 0;
+                                    voltar = 0;
                                     Console.WriteLine("Fim do código");
                                     break;
                                 }
-                                else if(opcao == 1)
+                                else if (opcao == 1)
                                 {
                                     break;
                                 }
-
-                                
                             }
                         }
                         break;
-
                 }
             }
+
         }
     }
 }
