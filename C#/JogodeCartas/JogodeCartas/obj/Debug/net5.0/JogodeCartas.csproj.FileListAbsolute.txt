@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\bin\Debug\net5.0\JogodeCartas.exe
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\bin\Debug\net5.0\JogodeCartas.deps.json
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\bin\Debug\net5.0\JogodeCartas.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\bin\Debug\net5.0\JogodeCartas.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\bin\Debug\net5.0\JogodeCartas.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\bin\Debug\net5.0\ref\JogodeCartas.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\bin\Debug\net5.0\JogodeCartas.pdb
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\obj\Debug\net5.0\JogodeCartas.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\obj\Debug\net5.0\JogodeCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\obj\Debug\net5.0\JogodeCartas.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\obj\Debug\net5.0\JogodeCartas.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\obj\Debug\net5.0\JogodeCartas.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\obj\Debug\net5.0\JogodeCartas.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\obj\Debug\net5.0\ref\JogodeCartas.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\obj\Debug\net5.0\JogodeCartas.pdb
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\JogodeCartas\JogodeCartas\obj\Debug\net5.0\JogodeCartas.genruntimeconfig.cache

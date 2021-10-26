@@ -22,7 +22,7 @@ namespace Selecione_Calc_Jogo_ClassifAnimais.Controller
                     "\n\nVamos lá!! Selecione uma das opções abaixo:\n" +
                     "\n1. Tabuada de um numero especifico;" +
                     "\n2. Tabuada de todos os numeros do 1 ao 10;" +
-                    "\n3. Calcular o fatorial de um numero;" +
+                    "\n3. Calcular o fatorial de um número;" +
                     "\n4. Voltar.");
 
                 try
@@ -45,6 +45,7 @@ namespace Selecione_Calc_Jogo_ClassifAnimais.Controller
                         break;
 
                     case 3:
+                        Fatorial.Iniciar();
                         break;
 
                     case 4:

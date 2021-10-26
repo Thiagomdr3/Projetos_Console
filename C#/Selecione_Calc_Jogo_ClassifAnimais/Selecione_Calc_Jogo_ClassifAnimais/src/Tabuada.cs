@@ -37,7 +37,7 @@ namespace Selecione_Calc_Jogo_ClassifAnimais.Service
                 Console.WriteLine("\n\n Vamos lá?\n" +
                     "\nDigite o número inteiro o qual deseja realizar a tabuada:");
 
-                int num = 0;
+                int num;
                 try
                 {
                     num = int.Parse(Console.ReadLine());
@@ -50,7 +50,7 @@ namespace Selecione_Calc_Jogo_ClassifAnimais.Service
 
                 if (num != 0)
                 {
-                    int[] tabuada = new int[11];
+                    int[] tabuada;
                     tabuada = Calc(num);
                     Mostrar(num, tabuada);
                     int erro = 0;
