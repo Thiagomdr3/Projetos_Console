@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\bin\Debug\net5.0\ControleEStoque.exe
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\bin\Debug\net5.0\ControleEStoque.deps.json
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\bin\Debug\net5.0\ControleEStoque.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\bin\Debug\net5.0\ControleEStoque.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\bin\Debug\net5.0\ControleEStoque.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\bin\Debug\net5.0\ref\ControleEStoque.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\bin\Debug\net5.0\ControleEStoque.pdb
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\obj\Debug\net5.0\ControleEStoque.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\obj\Debug\net5.0\ControleEStoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\obj\Debug\net5.0\ControleEStoque.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\obj\Debug\net5.0\ControleEStoque.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\obj\Debug\net5.0\ControleEStoque.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\obj\Debug\net5.0\ControleEStoque.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\obj\Debug\net5.0\ref\ControleEStoque.dll
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\obj\Debug\net5.0\ControleEStoque.pdb
+C:\Users\Vaio\Desktop\DEV\AutoDesafio\C#\C#\ControleEStoque\obj\Debug\net5.0\ControleEStoque.genruntimeconfig.cache
